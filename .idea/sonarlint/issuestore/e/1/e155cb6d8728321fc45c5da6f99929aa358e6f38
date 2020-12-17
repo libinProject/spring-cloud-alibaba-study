@@ -1,0 +1,16 @@
+
+Gsquid:S1481"-Remove this unused "serverIp" local variable.(˜±“ïıÿÿÿÿ
+lsquid:S00116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö±«Ùûÿÿÿÿ
+<squid:S1481"'Remove this unused "ip" local variable.(êĞŠ‡
+Ssquid:S1854">Remove this useless assignment to local variable "serverPort".(ü£‘ß
+Zsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.( ŠË£úÿÿÿÿ
+?squid:S1172"*Remove this unused method parameter "app".(í¸”
+@squid:S1481"&Remove this unused "f" local variable.(€ÃÇÏşÿÿÿÿ
+@squid:S1481"&Remove this unused "f" local variable.(òğîüÿÿÿÿ
+Vsquid:S1854"<Remove this useless assignment to local variable "serverIp".(˜±“ïıÿÿÿÿ
+Zsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(£ñĞ…ÿÿÿÿÿ
+@squid:S1481"&Remove this unused "f" local variable.(–¸‹¯úÿÿÿÿ
+Dsquid:S1481"/Remove this unused "serverPort" local variable.(ü£‘ß
+Zsquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(£ñĞ…ÿÿÿÿÿ
+Esquid:S1481"0Remove this unused "commandPort" local variable.(òçñ„
+isquid:S1192"TDefine a constant instead of duplicating this literal "app cannot be blank" 3 times.(òãÈ´

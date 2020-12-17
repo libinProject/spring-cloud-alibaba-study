@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e5af35-2148-438e-9627-e10a1cda30c2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-provide/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-consume/target/" />
+    <ignored path="$PROJECT_DIR$/service-sentinel-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/sentinel-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/rocketmq-provider/target/" />
+    <ignored path="$PROJECT_DIR$/rocketmq-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/stream-provider/target/" />
+    <ignored path="$PROJECT_DIR$/stream-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-code/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-code-resource/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-jwt-server/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-jwt-resource/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-jdbc-server/target/" />
+    <ignored path="$PROJECT_DIR$/sleuth-provider/target/" />
+    <ignored path="$PROJECT_DIR$/sleuth-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-api/target/" />
+    <ignored path="$PROJECT_DIR$/demo-study/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FileApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/FileApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="29" column="78" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ThreadApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCallable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/MyCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallableThreadApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/CallableThreadApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCallable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/MyCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/TicketApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputStreamWriter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/io/OutputStreamWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4920">
+              <caret line="232" column="13" selection-start-line="232" selection-start-column="13" selection-end-line="232" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamEncoder.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Soft/Java/JDK/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2472">
+              <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeSet.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/TreeSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2688">
+              <caret line="139" column="23" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sentinel-datasource-nacos</find>
+      <find>service-sentinel-nacos-flow-rules</find>
+      <find>SENTINEL_GROUP</find>
+      <find>11</find>
+      <find>&lt;java.version&gt;11&lt;/java.version&gt;</find>
+      <find>+System.currentTimeMillis()</find>
+      <find>sendMessageInTransaction</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oauth-jwt-resource/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/oauth-jwt-resource/src/main/java/com/itbin/study/oauthjwtresource/TestController.java" />
+        <option value="$PROJECT_DIR$/oauth-jwt-resource/src/main/java/com/itbin/study/oauthjwtresource/OauthJwtResourceApplication.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/TestApp.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/model/User.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/model/Role.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/model/Permission.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/config/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/mapper/PermissionMapper.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/OauthJdbcServerApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/config/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sleuth-provider/src/main/java/com/itbin/study/sleuthprovider/SleuthProviderApplication.java" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/src/main/java/com/itbin/study/sleuthconsumer/SleuthConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/src/main/java/com/itbin/study/sleuthconsumer/feign/SleuthServiceFeign.java" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/src/main/java/com/itbin/study/sleuthconsumer/TestController.java" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/src/main/java/com/itbin/study/sleuthconsumer/MyTraceFilter.java" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sleuth-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sleuth-provider/src/main/java/com/itbin/study/sleuthprovider/TestController.java" />
+        <option value="$PROJECT_DIR$/dubbo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/model/User.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/dubbo-api/src/main/java/com/itbin/study/dubboapi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/DubboProviderApplication.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/TestController.java" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/DubboConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/dubbo/UserServiceRPCImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/TestApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/model/Student.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/MyTreeSetDemoApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/FileApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/MyThread.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ThreadApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/MyCallable.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/CallableThreadApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/TicketApp.java" />
+        <option value="$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/MyCallable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Soft/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dubbo-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dubbo-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-alibaba-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-alibaba-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stream-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="stream-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/sentinel-dashboard/src/main/webapp/resources/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/sentinel-dashboard/src/main/webapp/resources/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demostudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demostudy" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-alibaba-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-alibaba-study" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itbin.study.oauthjwtresource" />
+      <recent name="com.alibaba.csp.sentinel.dashboard.rule.nacos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\JavaData\spring-cloud-alibaba-study\oauth-jdbc-server\src\main\java\com\itbin\study\oauthjdbcserver" />
+      <recent name="D:\Data\JavaData\spring-cloud-alibaba-study\oauth-jwt-server\src\main\java\com\itbin\study\oauthjwtserver" />
+      <recent name="D:\Data\JavaData\spring-cloud-alibaba-study\sentinel-dashboard\src\main\java\com\alibaba\csp\sentinel\dashboard\rule" />
+      <recent name="D:\Data\JavaData\spring-cloud-alibaba-study" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="nacos-consume" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TicketApp">
+    <configuration name="CallableThreadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itbin.study.demostudy.threadcallable.CallableThreadApp" />
+      <module name="demo-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbin.study.demostudy.threadcallable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FileApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itbin.study.demostudy.FileApp" />
+      <module name="demo-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbin.study.demostudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyTreeSetDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itbin.study.demostudy.MyTreeSetDemoApp" />
+      <module name="demo-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbin.study.demostudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itbin.study.demostudy.ThreadApp" />
+      <module name="demo-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbin.study.demostudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TicketApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itbin.study.demostudy.ticket.TicketApp" />
+      <module name="demo-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itbin.study.demostudy.ticket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sentinel-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.csp.sentinel.dashboard.DashboardApplication" />
+    </configuration>
+    <configuration name="DemoStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.demostudy.DemoStudyApplication" />
+    </configuration>
+    <configuration name="NacosConsumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-consume" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.nacosconsume.NacosConsumeApplication" />
+    </configuration>
+    <configuration name="NacosProvideApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="true">
+      <module name="nacos-provide" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.nacosprovide.NacosProvideApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="OauthCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.oauthcode.OauthCodeApplication" />
+    </configuration>
+    <configuration name="OauthCodeResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-code-resource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.oauthcoderesource.OauthCodeResourceApplication" />
+    </configuration>
+    <configuration name="RocketmqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.rocketmqconsumer.RocketmqConsumerApplication" />
+    </configuration>
+    <configuration name="RocketmqProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.rocketmqprovider.RocketmqProviderApplication" />
+    </configuration>
+    <configuration name="ServiceSentinelNacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-sentinel-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.servicesentinelnacos.ServiceSentinelNacosApplication" />
+    </configuration>
+    <configuration name="SleuthConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sleuth-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.sleuthconsumer.SleuthConsumerApplication" />
+    </configuration>
+    <configuration name="SleuthProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sleuth-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.sleuthprovider.SleuthProviderApplication" />
+    </configuration>
+    <configuration name="StreamProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stream-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itbin.study.streamprovider.StreamProviderApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.NacosProvideApplication" />
+      <item itemvalue="Spring Boot.NacosConsumeApplication" />
+      <item itemvalue="Spring Boot.ServiceSentinelNacosApplication" />
+      <item itemvalue="Spring Boot.DashboardApplication" />
+      <item itemvalue="Spring Boot.RocketmqProviderApplication" />
+      <item itemvalue="Spring Boot.RocketmqConsumerApplication" />
+      <item itemvalue="Spring Boot.OauthCodeApplication" />
+      <item itemvalue="Spring Boot.OauthCodeResourceApplication" />
+      <item itemvalue="Spring Boot.StreamProviderApplication" />
+      <item itemvalue="Spring Boot.SleuthProviderApplication" />
+      <item itemvalue="Spring Boot.SleuthConsumerApplication" />
+      <item itemvalue="Spring Boot.DemoStudyApplication" />
+      <item itemvalue="Application.MyTreeSetDemoApp" />
+      <item itemvalue="Application.FileApp" />
+      <item itemvalue="Application.ThreadApp" />
+      <item itemvalue="Application.CallableThreadApp" />
+      <item itemvalue="Application.TicketApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketApp" />
+        <item itemvalue="Application.CallableThreadApp" />
+        <item itemvalue="Application.ThreadApp" />
+        <item itemvalue="Application.FileApp" />
+        <item itemvalue="Application.MyTreeSetDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e5af35-2148-438e-9627-e10a1cda30c2" name="Default" comment="" />
+      <created>1602840768626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602840768626</updated>
+      <workItem from="1602840772975" duration="1573000" />
+      <workItem from="1603075582715" duration="2531000" />
+      <workItem from="1603086940654" duration="12152000" />
+      <workItem from="1603162676430" duration="2392000" />
+      <workItem from="1603165584691" duration="1023000" />
+      <workItem from="1603197815182" duration="641000" />
+      <workItem from="1603246278335" duration="11459000" />
+      <workItem from="1603333713334" duration="17822000" />
+      <workItem from="1603417072951" duration="619000" />
+      <workItem from="1603676791114" duration="10471000" />
+      <workItem from="1603767205670" duration="11894000" />
+      <workItem from="1604038435666" duration="4041000" />
+      <workItem from="1604285660580" duration="1542000" />
+      <workItem from="1604371898680" duration="11247000" />
+      <workItem from="1604456360289" duration="8051000" />
+      <workItem from="1604543195131" duration="9806000" />
+      <workItem from="1604633005728" duration="13948000" />
+      <workItem from="1604887462824" duration="10873000" />
+      <workItem from="1604973224488" duration="9361000" />
+      <workItem from="1605669005959" duration="7005000" />
+      <workItem from="1605862412275" duration="1614000" />
+      <workItem from="1606096655419" duration="1819000" />
+      <workItem from="1606184020031" duration="711000" />
+      <workItem from="1606271626400" duration="6622000" />
+      <workItem from="1606357279187" duration="6243000" />
+      <workItem from="1606464215265" duration="1227000" />
+      <workItem from="1606703853785" duration="2848000" />
+      <workItem from="1606738626846" duration="2280000" />
+      <workItem from="1606789215307" duration="2743000" />
+      <workItem from="1606881192204" duration="625000" />
+      <workItem from="1606963357202" duration="9554000" />
+      <workItem from="1607321763223" duration="594000" />
+      <workItem from="1607417938746" duration="1985000" />
+      <workItem from="1607934603423" duration="5244000" />
+      <workItem from="1608106047878" duration="2442000" />
+      <workItem from="1608172371233" duration="4091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="9" weight="0.17135416" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.44058886" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4851632" visible="true" weight="0.08645833" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Structure" order="11" sideWeight="0.5148368" side_tool="true" visible="true" weight="0.08645833" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37749738" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32912722" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.29127234" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499316" visible="true" weight="0.18958333" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/config/UserDetailsServiceImpl.java</url>
+          <line>37</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sleuth-provider/src/main/java/com/itbin/study/sleuthprovider/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleuth-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/itbin/study/dubboapi/api.java" />
+    <entry file="file://$PROJECT_DIR$/dubbo-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-jdbc-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="72" column="21" selection-start-line="59" selection-start-column="8" selection-end-line="72" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-jdbc-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/mapper.java" />
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/DubboProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-jdbc-server/src/main/java/com/itbin/study/oauthjdbcserver/OauthJdbcServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-jwt-resource/src/main/java/com/itbin/study/oauthjwtresource/OauthJwtResourceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-api/src/main/java/com/itbin/study/dubboapi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/DubboConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/itbin/study/dubboprovider/dubbo/UserServiceRPCImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-provide/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-provide/src/main/java/com/itbin/study/nacosprovide/NacosProvideApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-provide/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9192">
+          <caret line="408" column="20" selection-start-line="408" selection-start-column="20" selection-end-line="408" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="181" column="15" lean-forward="true" selection-start-line="181" selection-start-column="15" selection-end-line="181" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/itbin/study/dubboconsumer/TestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="497" column="21" lean-forward="true" selection-start-line="497" selection-start-column="21" selection-end-line="497" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11952">
+          <caret line="586" column="17" selection-start-line="586" selection-start-column="17" selection-end-line="586" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27192">
+          <caret line="1209" column="41" selection-start-line="1209" selection-start-column="41" selection-end-line="1209" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/MyTreeSetDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="99" column="11" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="139" column="23" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2472">
+          <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Soft/Java/JDK/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4920">
+          <caret line="232" column="13" selection-start-line="232" selection-start-column="13" selection-end-line="232" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/FileApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="29" column="78" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable.java" />
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ThreadApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/threadcallable/CallableThreadApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/TicketApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-study/src/main/java/com/itbin/study/demostudy/ticket/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+
+
+server:
+  port: 8882
+spring:
+  application:
+    name: oauth-jwt-resource
+#security:
+#  oauth2:
+#    client:
+#      client-id: client1
+#      client-secret: 123456
+#    resource:
+#      token-info-uri: http://localhost:8881/oauth/check_token

@@ -1,0 +1,16 @@
+
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èªG8ìùîëß.
+[squid:S1854#"=Remove this useless assignment to local variable "arrayList".(çâ¡ 8À´¸ðß.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÕŽÇÕûÿÿÿÿ8ÎîìÈá.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(žïÝõþÿÿÿÿ8ìùîëß.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ú¶×ãþÿÿÿÿ8û’çÈá.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8¤ÍéÈá.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(É„†ú8ÎîìÈá.
+Lsquid:S1481#".Remove this unused "arrayList" local variable.(çâ¡ 8À´¸ðß.
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ƒÚáB8îýìëß.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(žïÝõþÿÿÿÿ8ìùîëß.

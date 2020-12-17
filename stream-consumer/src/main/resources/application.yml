@@ -1,0 +1,15 @@
+
+server:
+  port: 8887
+spring:
+  application:
+    name: stream-consumer
+  cloud:
+    stream:
+      rocketmq:
+        binder:
+          name-server: 10.0.30.73:9876
+      bindings:
+        input1:
+          destination: stream-topic-test
+          group: stream-consumer-group

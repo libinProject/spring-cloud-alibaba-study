@@ -1,0 +1,33 @@
+
+server:
+  port: 8883
+spring:
+  application:
+    name: service-sentinel-nacos
+  cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+      datasource:
+        flow:
+          nacos:
+            server-addr: localhost:8848
+            data-id: service-sentinel-nacos-flow-rules
+            group-id: SENTINEL_GROUP
+            rule-type: flow
+            data-type: json
+        degrade:
+          nacos:
+            server-addr: localhost:8848
+            data-id: service-sentinel-nacos-degrade-rules
+            group-id: SENTINEL_GROUP
+            rule-type: degrade
+            data-type: json
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

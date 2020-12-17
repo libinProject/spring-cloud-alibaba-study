@@ -1,0 +1,9 @@
+
+fsquid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÎîÉî8êõˆ…æ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ±ÆÑúÿÿÿÿ8İ›‡…æ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÎñÊıÿÿÿÿ8…„…æ.
+jsquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(õ½Ğˆ8åİÔæ.
+Tsquid:S1854"6Remove this useless assignment to local variable "bw".(õ½Ğˆ8åİÔæ.
+Esquid:S1481"'Remove this unused "bw" local variable.(õ½Ğˆ8åİÔæ.

@@ -1,0 +1,25 @@
+
+server:
+  port: 8889
+spring:
+  application:
+    name: nacos-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        # namespace: b42e835d-3b64-46d1-ba78-ea41b5243813
+        group: g1
+        cluster-name: beijing
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+

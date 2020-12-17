@@ -1,0 +1,9 @@
+
+server:
+  port: 8881
+spring:
+  application:
+    name: sleuth-provider
+  sleuth:
+    baggage-keys:
+      - BaggraceId

@@ -1,0 +1,6 @@
+
+server:
+  port: 8881
+spring:
+  application:
+    name: oauth-code-server

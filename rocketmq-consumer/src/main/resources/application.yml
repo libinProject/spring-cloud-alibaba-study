@@ -1,0 +1,7 @@
+server:
+  port: 8884
+spring:
+  application:
+    name: rocketmq-consumer
+rocketmq:
+  name-server: 10.0.30.73:9876

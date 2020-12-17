@@ -1,0 +1,18 @@
+
+server:
+  port: 8882
+spring:
+  application:
+    name: dubbo-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+dubbo:
+  registry:
+    address: spring-cloud://localhost
+  protocol:
+    name: dubbo
+    port: -1
+  cloud:
+    subscribed-services: 'dubbo-consumer,dubbo-provider'

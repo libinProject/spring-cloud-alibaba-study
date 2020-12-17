@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-provide/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-consume/pom.xml" />
+        <option value="$PROJECT_DIR$/service-sentinel-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-code/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-code-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-jwt-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-jwt-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-jdbc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/sleuth-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-study/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

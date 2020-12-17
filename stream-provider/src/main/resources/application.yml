@@ -1,0 +1,14 @@
+
+server:
+  port: 8886
+spring:
+  application:
+    name: stream-provider
+  cloud:
+    stream:
+      rocketmq:
+        binder:
+          name-server: 10.0.30.73:9876
+      bindings:
+        output1:
+          destination: stream-topic-test

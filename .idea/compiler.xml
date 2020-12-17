@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-study" />
+        <module name="dubbo-api" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-provider" />
+        <module name="nacos-consume" />
+        <module name="nacos-provide" />
+        <module name="oauth-code" />
+        <module name="oauth-code-resource" />
+        <module name="oauth-jdbc-server" />
+        <module name="oauth-jwt-resource" />
+        <module name="oauth-jwt-server" />
+        <module name="rocketmq-consumer" />
+        <module name="rocketmq-provider" />
+        <module name="sentinel-dashboard" />
+        <module name="service-sentinel-nacos" />
+        <module name="sleuth-consumer" />
+        <module name="sleuth-provider" />
+        <module name="stream-consumer" />
+        <module name="stream-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
